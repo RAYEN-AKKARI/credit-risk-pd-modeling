@@ -1,15 +1,24 @@
 # Data
 
-This folder will contain information about the dataset used in this project.
+The original dataset used in the academic project comes from a professional banking environment and cannot be publicly shared.
 
-## Important note
+For confidentiality reasons, this repository does not include private banking data.
 
-No private or confidential banking data will be uploaded to this repository.
+The original dataset contained anonymized financial and behavioral variables related to credit risk, including:
 
-The project will use a public credit risk dataset such as:
+- Client segment
+- Relationship seniority
+- Financial commitments
+- Credit movements
+- Repayment ratio
+- Number of debit days
+- Type of payment incident
+- Default indicator
 
-- German Credit Risk Dataset
-- Home Credit Default Risk Dataset
-- Lending Club Loan Dataset
+Future versions of this project may include either:
 
-Raw data files may be excluded from the repository if they are too large or restricted by license.
+- A synthetic dataset with similar statistical structure
+- A public credit risk dataset
+- A reproducible demo using open data
+
+No confidential banking data is included in this repository.
