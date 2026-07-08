@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project data and model artifacts
+data/*.csv
+data/*.xlsx
+data/*.xls
+
+models/*.pkl
+models/*.joblib
+models/*.sav
